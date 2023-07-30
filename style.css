@@ -1,0 +1,257 @@
+body{
+
+font-family:  'DM Sans', sans-serif;
+text-align: justify;
+background-color: black;
+}
+
+.titulo{
+    font-size: 170px;
+    font-style: italic;
+    margin: 0 auto;
+    margin-top: 95px;
+    text-align: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5eacfbcb226dc82fa32ebc80/90e92816-cf78-400a-a2d0-a648b14829ea/amanecer-Cerro-de-la-Campana-parte-alta-reserva-de-la-biosfera-El-Cielo-Tamaulipas.jpg);
+    font-weight: bolder;
+
+    }
+
+.tit{
+    background-color: black;
+    padding: 10%;
+    height: 700px;
+    
+}
+
+
+/*NAV BAR*/
+.container-fluid{
+    background-color: black;
+    margin: 0 auto;
+    padding: 5mm;
+}
+.offcanvas-header{
+    background-color: black;
+}
+.offcanvas-body{
+    background-color: black;
+}
+
+
+.dukSpace{
+    color: whitesmoke;
+    font-family: 'REM', sans-serif;
+    text-align: center;
+    font-size: 140px;
+    margin: contain;
+    padding: 10%;
+    margin: 0 auto;
+    text-align: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: url(https://cdn.pixabay.com/photo/2017/05/15/07/20/moon-2313871_1280.jpg);
+    
+    font-weight: 1000;
+}
+.intro{
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    font-weight: bolder;
+    text-align: justify;
+   background-image: url(https://static.videezy.com/system/resources/thumbnails/000/043/897/original/200206_01_Particle-star-fall-seamless-loop.jpg);
+    margin: 25px;
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+.d-block{
+    margin: 0 auto;
+    margin-bottom: 7%;
+}
+
+
+/**tema 1**/
+.introo{
+
+    background-image: url(https://c.wallhere.com/photos/df/ef/2001_A_Space_Odyssey_movies_film_stills_Aries_1B_Moon_stars_space_spaceship-2235720.jpg!d);
+}
+
+
+.tema2{
+    background-image: url(https://wallpaperaccess.com/full/366025.jpg);
+    
+}
+
+
+/*perros astronautas*/
+.perrosa{
+    font-size: 140px;
+    font-style: italic;
+    margin: 0 auto;
+    padding: 10%;
+    text-align: center;
+    color: whitesmoke;
+   background-size: 290px;
+    font-weight: bolder;
+}
+.tem2{
+    background-color: black;
+}
+.laika{
+    margin-top: 50px;
+    width: 500px;
+    margin-left: 80px;
+    border-radius: 1%;
+
+}
+.tabla{
+    
+    margin-left:  30px;
+    margin-right: 30px;
+    padding: 10%;
+    text-align: justify;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: whitesmoke;
+background-color: black;
+
+}
+.perritas{
+    width: 500px;
+    padding: 6%;
+    margin-bottom: 30px;
+}
+
+.belka{
+  width: 400px;
+  margin-left: 140px;}
+
+  .lorem{
+    color: black;
+  }
+
+
+
+/*OTROS ANIMALES QUE FUERON AL ESPACIO*/
+.otros{
+    color: whitesmoke;
+    font-family: 'REM', sans-serif;
+    text-align: center;
+    font-size: 100px;
+    margin: contain;
+    padding: 10%;
+    margin: 0 auto;
+    text-align: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: url(https://i0.wp.com/medioambienteynaturaleza.com/wp-content/uploads/2015/08/Fondos-de-pantalla-de-la-Tierra-ab.jpg?ssl=1g);
+    font-weight: 1000;
+}
+
+.otrosan{
+    background-image: url(https://wallpaper29.files.wordpress.com/2016/09/900p-pink-planet-name-needed-wallpaper-1600x900.jpg);
+
+    background-repeat: no-repeat;
+    background-size: 1500px;  
+}
+.tema3{
+    background-color: black;
+}
+.animales{
+    margin-left:  50px;
+    margin-right: 50px;
+    padding: 10%;
+    text-align: justify;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: whitesmoke;
+    background-color: black;
+}
+
+.mono{
+    width: 500px;
+    margin-left: 15%;
+}
+
+.moscas{
+    width: 500px;
+    padding: 1%;
+    }
+
+.ratones{
+        width: 70%;
+        padding: 2%;
+        margin-left: 50px;
+margin-bottom: 40px;
+    }
+
+.felicette{
+    width: 550px;
+    padding: 2%;
+    margin-left: 15%;
+}
+
+/*BIOETICA*/
+.bio{
+    color: whitesmoke;
+    font-family: 'REM', sans-serif;
+    text-align: center;
+    font-size: 140px;
+    margin: contain;
+    padding: 10%;
+    margin: 0 auto;
+    text-align: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: url(https://thumbs.dreamstime.com/b/naturaleza-y-ciencia-de-los-laboratorios-biolog%C3%ADa-plantas-con-estructura-bioqu%C3%ADmica-sobre-fondo-verde-del-laboratorio-biol%C3%B3gico-162019753.jpg);
+    font-weight: 1000;
+}
+
+.tema4{
+    background-image: url(https://wallpapersmug.com/download/1920x1080/d16c59/green-leaves-close-up-portrait.jpg);
+}
+.exp{
+    
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(50, 102, 50);
+}
+.tema5{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    text-align: justify;
+    font-weight: bold;
+    color: white;
+    text
+
+}
+.prin{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(50, 102, 50);
+}
+
+.img1{
+    width: 800px;
+    padding: 6%;
+margin-left: 240px;
+}
+.t1{
+    margin: 40px;
+}
+.ul{
+    margin: 40px;
+}
+.paraduk{
+    width: 700px;
+    padding: 6%;
+margin-left: 270px;
+}
